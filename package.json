@@ -1,0 +1,47 @@
+{
+  "name": "v-stack-jjrrtvz-example",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "stack": "vite",
+    "build": "tsc && vite build",
+    "preview": "yarn build && vite preview"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "latest",
+    "@tanstack/react-query-devtools": "latest",
+    "immer": "latest",
+    "jotai": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "zustand": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "sass": "latest",
+    "tailwindcss": "latest",
+    "vite": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunpbardwaj/v-stack-jjrrtvz-example.git"
+  },
+  "keywords": [
+    "react",
+    "jotai",
+    "react query",
+    "react router",
+    "tailwind css",
+    "typescript",
+    "javascript",
+    "vite",
+    "zustand"
+  ],
+  "author": "Varun Bardwaj <varunbardwajp@gmail.com> (https://varunbardwaj.pages.dev/)",
+  "license": "MIT",
+  "homepage": "https://vstack.pages.dev/"
+}
